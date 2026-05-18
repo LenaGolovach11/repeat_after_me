@@ -7,6 +7,6 @@ while True:
     print()
     user_input = input()
     if user_input == "выход":
-        print("Остановка программы...")
+        print("Остановка программы....")
         break
     print("Вы ввели -", user_input)
